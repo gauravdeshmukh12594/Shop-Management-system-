@@ -1,0 +1,6 @@
+{
+  "name": "VastraPOS",
+  "description": "Clothing shop inventory management, digital barcode generator, photo-based catalog, POS billing and sales tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
